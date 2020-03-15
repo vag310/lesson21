@@ -1,0 +1,14 @@
+.section{
+    min-height: 100vh;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    display: table;
+}
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
